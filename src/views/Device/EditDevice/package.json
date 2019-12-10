@@ -1,0 +1,6 @@
+{
+  "name": "EditDevice",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./EditDevice.js"
+}

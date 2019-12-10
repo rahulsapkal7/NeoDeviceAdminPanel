@@ -17,6 +17,9 @@ import {
   Tabs,
   Tooltips,
 } from './Base';
+import {
+  AddCategory
+} from './AddCategory';
 
 import { ButtonDropdowns, ButtonGroups, Buttons, BrandButtons } from './Buttons';
 import Charts from './Charts';
@@ -65,5 +68,6 @@ export {
   Cards,
   Breadcrumbs,
   Paginations,
+  AddCategory,
 };
 
